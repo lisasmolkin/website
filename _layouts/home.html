@@ -1,0 +1,20 @@
+{% include head.html %}
+
+  <header>
+    <h1>{% include title.liquid %}</h1>
+    {% include nav.html %}
+  </header>
+
+  <main>
+    <div id=video>
+      <iframe src="https://player.vimeo.com/video/262307924?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+    <script src="https://player.vimeo.com/api/player.js"></script>
+
+    <section id=bio>
+      <img src=/images/lisa.jpg>
+      {{ content }}
+    </section>
+  </main>
+
+{% include foot.html %}

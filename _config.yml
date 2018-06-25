@@ -1,0 +1,14 @@
+title: LISA SMOLKIN
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  parse_block_html: true
+
+sass:
+  sass_dir: _sass
+  load_paths:
+    - _sass
+
+livereload: true
