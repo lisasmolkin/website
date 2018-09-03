@@ -11,4 +11,4 @@ In Spring 2017 Canadian Art Magazine published one of her newsletters in the bac
 
 She looks forward to her continued exploration into the matter of human developmental issues, feelings of invisibility, and the pain of relational disconnect in her work.
 
-photo with Giant Jacket by Sean Weaver
+photo with Giant Jacket by Sean Weaver.
