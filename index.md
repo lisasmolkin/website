@@ -38,5 +38,5 @@ Lisa Smolkin is an artist living and working in Toronto. Her art practice compri
 <br>
 
 Avatar by Alisson Escobar
-
+Giant's Jacket photo by Sean Weaver
 
