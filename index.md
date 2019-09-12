@@ -3,7 +3,7 @@ layout: home
 permalink: /
 ---
 
-## About Webinar Ooooof 
+## Webinar Ooooof by Lisa Smolkin
 
 Live performance art event by me with brand new video, real-time interactivity via chat window with you, the participant.
 
