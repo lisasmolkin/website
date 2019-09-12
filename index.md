@@ -9,7 +9,7 @@ Live performance art event by me with brand new video, real-time interactivity v
 
 A live internet portal to these things:
 
-- In an instant Paradise turns to an active volcano scene turns to hell. That’s what it is to be human. Experiencing life through sensation and emotion; every moment is an unending.
+- In an instant Paradise turns to an active volcano scene turns to Hell. That’s what it is to be human. Experiencing life through sensation and emotion; every moment is an unending.
 
 - Indoor playground sensory experiences help in getting in touch with ancestors. Do they even like me?
 
