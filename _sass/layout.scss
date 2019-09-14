@@ -28,20 +28,20 @@ body {
       background: red;
 
       #mc_embed_signup form {
-        display: flex;
+        display: flex !important;
         /* position: relative; */
-        text-align: center;
+        text-align: center !important;
         width: 50%;
-        margin: 0 auto;
-        padding: 60px 0 10px 3%;
+        margin: 0 auto !important;
+        padding: 60px 0 10px 3% !important;
       }
 
       #mc_embed_signup {
-        display: flex;
+        display: flex important!;
         /* position: relative; */
-        text-align: center;
+        text-align: center important!;
         width: 50%;
-        margin: 0 auto;
+        margin: 0 auto !important;
         padding: 60px 0 10px 3%;
       }
 
