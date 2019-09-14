@@ -2,9 +2,10 @@
   body #container {
       header {
 
-        display: flex;
-        justify-content: center;
-        text-align: center;
+        display: flex important!;
+        justify-content: center important!;
+        text-align: center important!;
+
 
         h1 {
           margin-bottom: 30px
