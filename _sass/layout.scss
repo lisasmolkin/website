@@ -1,19 +1,19 @@
 body {
-  background: orange;
+  // background: orange;
 
   #container {
     padding: 2em;
     max-width: 1200px;
 
     header {
-      background: lightgreen;
+      // background: lightgreen;
       // display: grid;
       // grid-template-columns: auto auto;
       // grid-template-areas: 'name nav';
       margin-bottom: 2em;
 
       h1 {
-        background: hotpink;
+        // background: hotpink;
         // grid-area: name;
         font-size: 7em;
         font-weight: normal;
@@ -22,19 +22,19 @@ body {
     }
 
     main {
-      // background: red;
+      background: red;
       display: grid;
       grid-template-columns: 640px 3em auto;
       grid-template-areas: 'video . bio';
 
       #video {
-        // background: blue;
+        background: blue;
         grid-area: video;
         width: 640px;
         color: white;
 
         iframe {
-          // background: yellow;
+          background: yellow;
           width: 640px;
           height: 360px;
         }
