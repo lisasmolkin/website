@@ -87,7 +87,7 @@ body {
           // grid-area: nav;
           // align-items: flex-start;
 
-          a {
+          li a {
             color: black;
             display: block;
             font-size: 1em;
@@ -100,7 +100,7 @@ body {
             } //span
           } //a
 
-          a:hover {
+          li a:hover {
             color: darkblue;
           } //a
         } //nav
