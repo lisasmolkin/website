@@ -2,7 +2,6 @@
 
   <header>
     <h1>{% include title.liquid %}</h1>
-    {% include nav.html %}
   </header>
 
   <main>
@@ -24,4 +23,7 @@
     </section>
   </main>
 
-{% include foot.html %}
+  <footer>
+    {% include foot.html %}
+    {% include nav.html %}
+  </footer>
