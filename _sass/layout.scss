@@ -1,6 +1,10 @@
 body {
   // background: orange;
 
+  .tac {
+    width: 50px;
+  }
+
   #container {
     padding: 2em;
     max-width: 1200px;
@@ -101,9 +105,5 @@ body {
     }//footer
 
   } //container
-
-    .logo {
-    width: 50px;
-  }
 
 } //body
