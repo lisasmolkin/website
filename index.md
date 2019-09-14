@@ -41,3 +41,5 @@ Avatar by Alisson Escobar
 
 Giant's Jacket photo by Sean Weaver
 
+Giant Jacket fabrication by Maddy Matthews
+
