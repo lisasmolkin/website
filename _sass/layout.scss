@@ -1,5 +1,5 @@
 body {
-  background: orange;
+  // background: orange;
 
   // .tac {
   //   width: 23%;
@@ -79,6 +79,9 @@ body {
 
 
     footer {
+      display: flex;
+      justify-content: space-between
+
          nav {
           background: lightyellow;
           grid-area: nav;
