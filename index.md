@@ -27,6 +27,10 @@ A live internet portal to these things:
 
 <br>
 
+<img src="lisa.jpg"
+     alt="lisa"
+/>
+
 ## Bio
 
 Lisa Smolkin is an artist living and working in Toronto. Her art practice comprises performance, video, and drawing, exploring themes of selfhood and feminism by incorporating elements from popular culture and healing traditions within humorous narrative structures. She was a frequent performer at Doored, a performance art/conceptual comedy show in Toronto put on by Life of a Craphead. She looks forward to her continued exploration into the matter of human developmental issues, feelings of invisibility, and the pain of relational disconnect in her work.
