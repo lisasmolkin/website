@@ -3,7 +3,7 @@ layout: home
 permalink: /
 ---
 
-## WEBINAR OOOOOF
+## WEBINAR OOOOOF DOES THIS WORK
 
 
 Live performance art event by me with brand new video, real-time interactivity via chat window with you, the participant.
