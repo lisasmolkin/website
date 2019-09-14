@@ -30,7 +30,7 @@ A live internet portal to these things:
 
 ## Bio
 
-<img src="lisa.jpg"
+<img src="images/lisa.jpg"
      alt="lisa"
 />
 
