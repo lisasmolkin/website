@@ -91,15 +91,20 @@ body {
             span {
               font-family: helvetica, arial, sans-serif;
               margin-left: 1em;
-            }
-          }
+            } //span
+          } //a
 
           a:hover {
             color: darkblue;
-          }
-        }
-    }
+          } //a
+        } //nav
+    }//footer
 
-  }
 
+.logo {
+  width: 50px;
 }
+
+  } //container
+
+} //body
