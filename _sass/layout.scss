@@ -80,10 +80,10 @@ body {
 
     footer {
       display: flex;
-      justify-content: space-between
+      justify-content: space-between;
 
          nav {
-          background: lightyellow;
+          // background: lightyellow;
           // grid-area: nav;
           align-items: flex-start;
 
@@ -104,6 +104,7 @@ body {
             color: darkblue;
           } //a
         } //nav
+
     }//footer
 
   } //container
