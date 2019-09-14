@@ -6,21 +6,21 @@ body {
     max-width: 1200px;
 
     header {
-      // background: lightgreen;
+      background: lightgreen;
       display: grid;
       grid-template-columns: auto auto;
       grid-template-areas: 'name nav';
       margin-bottom: 2em;
 
       h1 {
-        // background: hotpink;
+        background: hotpink;
         grid-area: name;
         font-size: 7em;
         font-weight: normal;
       }
 
       nav {
-        // background: lightyellow;
+        background: lightyellow;
         grid-area: nav;
         justify-self: right;
         margin-top: 7px;
