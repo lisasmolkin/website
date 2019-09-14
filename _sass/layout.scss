@@ -7,40 +7,16 @@ body {
 
     header {
       background: lightgreen;
-      display: grid;
-      grid-template-columns: auto auto;
-      grid-template-areas: 'name nav';
+      // display: grid;
+      // grid-template-columns: auto auto;
+      // grid-template-areas: 'name nav';
       margin-bottom: 2em;
 
       h1 {
         background: hotpink;
-        grid-area: name;
+        // grid-area: name;
         font-size: 7em;
         font-weight: normal;
-      }
-
-      nav {
-        background: lightyellow;
-        grid-area: nav;
-        justify-self: right;
-        margin-top: 7px;
-
-        a {
-          color: black;
-          display: block;
-          font-size: 1em;
-          margin-bottom: .7em;
-          padding-right: 20px;
-
-          span {
-            font-family: helvetica, arial, sans-serif;
-            margin-left: 1em;
-          }
-        }
-
-        a:hover {
-          color: darkblue;
-        }
       }
 
     }
@@ -77,6 +53,32 @@ body {
 
     }
 
+  }
+
+  footer {
+       nav {
+        background: lightyellow;
+        grid-area: nav;
+        justify-self: right;
+        margin-top: 7px;
+
+        a {
+          color: black;
+          display: block;
+          font-size: 1em;
+          margin-bottom: .7em;
+          padding-right: 20px;
+
+          span {
+            font-family: helvetica, arial, sans-serif;
+            margin-left: 1em;
+          }
+        }
+
+        a:hover {
+          color: darkblue;
+        }
+      }
   }
 
 }
