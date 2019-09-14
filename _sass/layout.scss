@@ -23,9 +23,15 @@ body {
 
     main {
       background: red;
-      // display: grid;
-      // grid-template-columns: 640px 3em auto;
-      // grid-template-areas: 'video . bio';
+
+      #mc_embed_signup form {
+        display: flex;
+        /* position: relative; */
+        text-align: center;
+        width: 50%;
+        margin: 0 auto;
+        padding: 60px 0 10px 3%;
+      }
 
       #video {
         background: blue;
