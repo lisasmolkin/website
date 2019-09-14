@@ -18,13 +18,13 @@ body {
       text-align: center;
       margin-bottom: 2em;
 
+
       h1 {
         background: hotpink;
         // grid-area: name;
         font-size: 7em;
         font-weight: normal;
       }
-
     }
 
     main {
@@ -40,9 +40,9 @@ body {
       }
 
       #mc_embed_signup {
-        display: flex important!;
+        display: flex !important;
         /* position: relative; */
-        text-align: center important!;
+        text-align: center !important;
         width: 50%;
         margin: 0 auto !important;
         padding: 60px 0 10px 3%;
