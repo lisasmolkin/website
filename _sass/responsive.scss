@@ -15,8 +15,8 @@
           a {
             padding: 0;
           }
-        }
-      }
+        } //nav
+      } //header
 
       main {
       // background: yellow;
@@ -25,18 +25,18 @@
         float: none;
         width: 100%;
       }
-
     } //main
+
       footer {
               nav {
             a {
               padding: 0;
             }
-          }
-        }
-      }
-  }
-}
+          } //nav
+        } //footer
+
+  } //body container
+} //media
 
 
 @media (max-width: 1000px) {
