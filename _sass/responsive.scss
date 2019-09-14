@@ -1,7 +1,7 @@
 @media (max-width: 1100px) {
   body #container {
       header {
-        display: block;
+
 
         h1 {
           margin-bottom: 30px
@@ -21,7 +21,16 @@
         float: none;
         width: 100%;
       }
-    }
+
+    } //main
+      footer {
+              nav {
+            a {
+              padding: 0;
+            }
+          }
+        }
+      }
   }
 }
 
