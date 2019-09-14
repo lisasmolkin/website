@@ -23,13 +23,13 @@ body {
 
     main {
       background: red;
-      display: grid;
-      grid-template-columns: 640px 3em auto;
-      grid-template-areas: 'video . bio';
+      // display: grid;
+      // grid-template-columns: 640px 3em auto;
+      // grid-template-areas: 'video . bio';
 
       #video {
         background: blue;
-        grid-area: video;
+        // grid-area: video;
         width: 640px;
         color: white;
 
@@ -41,7 +41,7 @@ body {
       }
 
       #bio {
-        grid-area: bio;
+        // grid-area: bio;
 
         img {
           float: left;
