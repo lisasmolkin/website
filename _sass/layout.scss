@@ -35,11 +35,20 @@ body {
         width: 50%;
         margin: 0 auto;
         padding: 60px 0 10px 0;
+          a {
+            color: red;
+          }
           li a {
             color: red;
           }
       }
+      li a {
+        color: red;
+      }
 
+      a {
+        color: red;
+      }
      
       // #mc_embed_signup {
       //   display: flex !important;
