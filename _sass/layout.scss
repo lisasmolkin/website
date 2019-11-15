@@ -41,9 +41,6 @@ body {
           li a {
             color: red;
           }
-          li a:hover {
-            color: darkred;
-          }
       }
       li a {
         color: red;
@@ -51,6 +48,10 @@ body {
 
       a {
         color: red;
+      }
+
+      a:hover {
+        color: darkred;
       }
      
       // #mc_embed_signup {
