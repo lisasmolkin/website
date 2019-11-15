@@ -39,6 +39,19 @@ body {
         padding: 60px 0 10px 3% !important;
       }
 
+      #mc-field-group {
+        display: flex !important;
+        /* position: relative; */
+        text-align: center !important;
+        width: 50%;
+        margin: 0 auto !important;
+        padding: 60px 0 10px 3% !important;
+      }
+
+      #mc-field-group  a:link{
+        color: red;
+      }
+
       // #mc_embed_signup {
       //   display: flex !important;
       //   /* position: relative; */
