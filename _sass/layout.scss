@@ -30,7 +30,7 @@ body {
 
     main {
 
-      #mc_embed_signup form {
+      .webinar {
         display: flex !important;
         /* position: relative; */
         text-align: center !important;
@@ -39,16 +39,7 @@ body {
         padding: 60px 0 10px 3% !important;
       }
 
-      #mc-field-group {
-        display: flex !important;
-        /* position: relative; */
-        text-align: center !important;
-        width: 50%;
-        margin: 0 auto !important;
-        padding: 60px 0 10px 3% !important;
-      }
-
-      #mc-field-group  a:link{
+      .webinar  a:link{
         color: red;
       }
 
