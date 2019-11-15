@@ -31,15 +31,13 @@ body {
     main {
 
       .webinar {
-        display: flex !important;
-        /* position: relative; */
-        text-align: center !important;
+        text-align: center;
         width: 50%;
-        margin: 0 auto !important;
-        padding: 60px 0 10px 3% !important;
+        margin: 0 auto;
+        padding: 60px 0 10px 0;
       }
 
-      .webinar  a:link{
+      li a {
         color: red;
       }
 
