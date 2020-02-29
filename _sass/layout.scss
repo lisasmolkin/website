@@ -30,12 +30,29 @@ body {
 
     main {
 
-      .webinar {
-        text-align: center;
-        width: 50%;
-        margin: 0 auto;
-        padding: 60px 0 10px 0;
-         
+      .home-images {
+        position: relative;
+
+        .splotch {
+          width: 300px;
+          position: absolute;
+        }
+
+        .words {
+          position: absolute;
+          left: 26%;
+          top: 47%;
+          font-size: 20px;
+          font-weight: bold;
+        }
+
+        .gender-container       { left: 10%; top: 10%; }
+        .generational-container { left: 80%; top: 20%; }
+        .health-container       { left: 10%; top: 30%; }
+        .neurotypical-container { left: 60%; top: 0; }
+        .race-container         { left: 71%; top: 48%; }
+        .religion-container     { left: 19%; top: 60%; }
+        .unresolved-container   { left: 69%; top: 71%; }
       }
 
       a {
@@ -45,7 +62,7 @@ body {
       a:hover {
         color: darkred;
       }
-     
+
       // #mc_embed_signup {
       //   display: flex !important;
       //   /* position: relative; */
