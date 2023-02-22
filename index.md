@@ -28,6 +28,10 @@ Giant Jacket photo by Sean Weaver
 Giant Jacket fabrication by Maddy Matthews
 
 
+
+
+
+
 ![Vtape Logo transparent bkgd320X320](https://user-images.githubusercontent.com/40550444/220724704-3a3f9e3d-bb43-45ed-94bb-3140da17d420.png)
 
 
