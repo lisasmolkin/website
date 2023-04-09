@@ -21,6 +21,14 @@ Lisa Smolkin is an artist living in Tkaronto/Toronto. Her art practice comprises
 
 <br>
 
+<a href="lisa-smolkin-cv.pdf">Download Curriculum Vitae</a>
+
+<br>
+
+---
+
+<br>
+
 Avatar by Alisson Escobar
 
 Giant Jacket photo by Sean Weaver
